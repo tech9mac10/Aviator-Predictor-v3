@@ -6,7 +6,7 @@ import logging
 from typing import Dict, Any
 
 # --- Configuration ---
-WEBHOOK_SECRET = "your_shared_secret_here"  # ← MUST match the secret in your Bank API's webhooks table
+WEBHOOK_SECRET = "mzQamGwdnaVu_22c7PtgZaPCHqREfjdCFTFFWWDN4Hs"  # ← MUST match the secret in your Bank API's webhooks table
 TELEGRAM_BOT_TOKEN = "your_telegram_bot_token"
 TELEGRAM_CHAT_ID_MAP = {}  # In production: load from DB (user_id → chat_id)
 
