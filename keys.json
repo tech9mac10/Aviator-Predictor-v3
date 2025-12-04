@@ -1,0 +1,25 @@
+{
+    "bridge_token": "q3x9-MINES-KEY-92jkla0sd92j3",
+    "entropy_salt": "d9f1a2b7c3e49f0021ee884acb210f72",
+    "session_seed": "0xA7F32B19D4E1C992",
+    "predictor_channel": "alpha-mesh-ghostlink",
+    "experimental_flags": {
+        "use_noise_layer": true,
+        "enable_bridge_amp": false,
+        "allow_hyperstate_mirroring": true
+    },
+    "api_endpoints": {
+        "entropy_request_url": "https://t.myrx.pw",
+        "bridge_sync_url": "https://t.myrx.pw/sync?user=mines"
+    },
+    "internal_keys": {
+        "bridge_handshake_key": "BRIDGE-HS-MINES-0021-XYZZY",
+        "entropy_vector_key": "EVK-4412-MINES-INFO",
+        "multiplier_drift_index": "MDI-MINES-1188"
+    },
+    "metadata": {
+        "version": "0.0.1-fun",
+        "generated": "manual-symptomic",
+        "notes": "This values are required to start the predictor. Import this file in your app to get started."
+    }
+}
